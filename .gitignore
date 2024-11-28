@@ -1,0 +1,9 @@
+.idea/*
+.vs/*
+.vscode/*
+!.vscode/c_cpp_properties.json
+
+# colcon/CMake output
+build/
+install/
+log/
